@@ -1,4 +1,2 @@
 this is my fourth file contents, modified in first branch
 
-if(a == 3){
-}
